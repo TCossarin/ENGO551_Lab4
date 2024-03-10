@@ -12,5 +12,7 @@ main.html: Contains the UI for the website.
 
 app.js: Adds the functionality to the map.
 
+Video: https://youtu.be/7pO9zn2uO28
+
 The following screenshot shows the 2017 traffic incidents in red.
 ![Map Visualization](Screenshot4.png)
